@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mohave:wght@300&display=swap');
+
+* {
+    margin: 0;
+    color: white;
+    padding: 0;
+}
+
+body {
+    background-image: url(./img/caragua2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+#title {
+    color: #fff;
+    text-align: center;
+    font-family: 'Dongle', 'Dancing-Script';
+    font-size: 50px;
+    font-style: oblique;
+    font-weight: 300;
+    background-color: rgb(37, 36, 119);
+    padding: 10px;
+}
+
+#Caragua {
+    padding: 25px;
+    text-align: center;
+    font-family: 'Mohave';
+    font-size: 20px;
+    background-color: black;
+    opacity: 0.7;
+    font-style: oblique;
+    height: 10vh;
+}
+
+p {
+    display: block;
+    margin-block-start: 1px;
+    margin-block-end: 1px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.video {
+    display: flex;
+}
+
+iframe {
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+
+#principal {
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 35px;
+}
+h3 {
+    color: white;
+    font-size: 27px;
+}
+li {
+    color: white;
+    font-size: 15px;
+}
+
+#rodape {
+    text-align: center;
+}
