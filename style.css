@@ -64,16 +64,19 @@ iframe {
 h2 {
     color: white;
     font-size: 35px;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
 }
 
 h3 {
     color: white;
     font-size: 27px;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
 }
 
 li {
     color: white;
     font-size: 15px;
+    font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
 }
 
 #rodape {
